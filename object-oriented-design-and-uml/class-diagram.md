@@ -1,5 +1,7 @@
 <h1 align="center">Class Diagram</h1>
 
+<https://www.youtube.com/watch?v=6XrL5jXmTwM>
+
 Class diagram is the backbone of object-oriented modeling - it shows how different entities (people, things, and data) relate to each other. In other words, it shows the static structures of the system.
 
 A class diagram describes the attributes and operations of a class and also the constraints imposed on the system. Class diagrams are widely used in the modeling of object-oriented systems because they are the only UML diagrams that can be mapped directly to object-oriented languages.
